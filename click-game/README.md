@@ -2,7 +2,7 @@
 
 A memory card game built with React!
 
-Now featuring all your favorite Twin Peaks characters! Try to click all twelve characters without clicking the same two twice!
+Now featuring all of your favorite Twin Peaks characters! Try to click all twelve characters without clicking the same one twice!
 
 Heroku: https://agile-harbor-80039.herokuapp.com/
 
