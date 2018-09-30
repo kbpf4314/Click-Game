@@ -38,12 +38,15 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title score={this.state.score} highscore={this.state.highscore}>TWIN PEAKS</Title>
+        <Title score={this.state.score} highscore={this.state.highscore}>
+        TWIN PEAKS CLICK GAME
+        </Title>
         {this.state.images.map(image => (
           <ImageCard
             handleClick={this.handleClick}
             id={image.id}
             key={image.id}
+            name={image.name}
             image={image.image}
           />
         ))}

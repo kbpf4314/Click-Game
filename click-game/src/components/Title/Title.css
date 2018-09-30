@@ -4,5 +4,9 @@
   font-size: 3rem;
   text-decoration: underline;
   color: whitesmoke;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
+}
+
+.scores {
+  margin-bottom: 5px;
 }

@@ -10,8 +10,12 @@
   text-align: left;
 }
 
+li {
+  font-size: 20px;
+}
+
 .card > .img-container {
-  height: 60%;
+  height: 80%;
   overflow: hidden;
   text-align: center;
   background: black;

@@ -2,85 +2,61 @@
   {
     "id": 1,
     "name": "Bob",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/3/37/KillerBob.jpg/revision/latest/scale-to-width-down/673?cb=20100423043335",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/3/37/KillerBob.jpg/revision/latest/scale-to-width-down/673?cb=20100423043335"
   },
   {
     "id": 2,
     "name": "Dale Cooper",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/3/3a/Cooper_005.jpg/revision/latest/scale-to-width-down/700?cb=20170328023501",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/3/3a/Cooper_005.jpg/revision/latest/scale-to-width-down/700?cb=20170328023501"
   },
   {
     "id": 3,
     "name": "Laura Palmer",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/9/92/Laura_Palmer_%281989%29.jpg/revision/latest/scale-to-width-down/700?cb=20180219220542",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/9/92/Laura_Palmer_%281989%29.jpg/revision/latest/scale-to-width-down/700?cb=20180219220542"
   },
   {
     "id": 4,
     "name": "Audrey Horne",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/9/98/AudreyNew.jpg/revision/latest/scale-to-width-down/700?cb=20161026025355",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/9/98/AudreyNew.jpg/revision/latest/scale-to-width-down/700?cb=20161026025355"
   },
   {
     "id": 5,
     "name": "Shelly Briggs",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/2/21/Shelly_Johnson_%281989%29.jpg/revision/latest/scale-to-width-down/699?cb=20180220025449",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/2/21/Shelly_Johnson_%281989%29.jpg/revision/latest/scale-to-width-down/699?cb=20180220025449"
   },
   {
     "id": 6,
     "name": "Bobby Briggs",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/9/98/BobbyHiRes.jpg/revision/latest/scale-to-width-down/700?cb=20161101195815",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/9/98/BobbyHiRes.jpg/revision/latest/scale-to-width-down/700?cb=20161101195815"
   },
   {
     "id": 7,
     "name": "Donna Hayward",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/0/0c/Donna_001.jpg/revision/latest/scale-to-width-down/696?cb=20100419235618",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/0/0c/Donna_001.jpg/revision/latest/scale-to-width-down/696?cb=20100419235618"
   },
   {
     "id": 8,
     "name": "James Hurley",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/6/66/Jamesnew.jpg/revision/latest/scale-to-width-down/700?cb=20161026024503",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/6/66/Jamesnew.jpg/revision/latest/scale-to-width-down/700?cb=20161026024503"
   },
   {
     "id": 9,
     "name": "Gordon Cole",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/7/7a/GordonColeNewMainPhoto.png/revision/latest/scale-to-width-down/700?cb=20171109180605",
-    "occupation": "Adventurer",
-    "location": "California"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/7/7a/GordonColeNewMainPhoto.png/revision/latest/scale-to-width-down/700?cb=20171109180605"
   },
   {
     "id": 10,
     "name": "Woodsman",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/b/b3/GottaLight.png/revision/latest?cb=20170626141331",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/b/b3/GottaLight.png/revision/latest?cb=20170626141331"
   },
   {
     "id": 11,
     "name": "Phillip Jeffries",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/6/6b/Phillip_Jeffries.jpg/revision/latest/scale-to-width-down/700?cb=20170820225844",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/6/6b/Phillip_Jeffries.jpg/revision/latest/scale-to-width-down/700?cb=20170820225844"
   },
   {
     "id": 12,
     "name": "Sheriff Truman",
-    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/c/c7/HarryNew.jpg/revision/latest/scale-to-width-down/700?cb=20161026022237",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "image": "https://vignette.wikia.nocookie.net/twinpeaks/images/c/c7/HarryNew.jpg/revision/latest/scale-to-width-down/700?cb=20161026022237"
   }
 ]
