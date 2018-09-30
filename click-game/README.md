@@ -1,4 +1,4 @@
-TWIN PEAKS CLICK GAME
+# TWIN PEAKS CLICK GAME
 
 A memory card game built with React!
 
@@ -8,5 +8,5 @@ Heroku: https://agile-harbor-80039.herokuapp.com/
 
 -
 
-I'm having an issue with my alert box popping up on first click.
+I'm having an issue with my alert box popping up on first click
 
