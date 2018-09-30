@@ -6,7 +6,7 @@ import images from "./images.json";
 import "./App.css";
 
 class App extends Component {
-  // Setting this.state.images to the images json array
+  // Setting this.state.images to the json array
   state = {
     images,
     score: 0,
@@ -26,12 +26,26 @@ class App extends Component {
     });
     alert(`Try Again! Score: ${score}`);
     this.setState({score: 0});
-    return true;
+    return true 
   }
 
-  handleClick(e) {
-    e.preventDefault();
-    console.log('The link was clicked.');
+  handleClick = id => {
+    const { images, score } = this.state
+    // eslint-disable-next-line
+    images.find((character, i) => {
+      if (character.id === id) {
+        if(images[i].count === 0){
+          images[i].count = images[i].count + 1;
+          this.setState({score : score + 1}, function(){
+            console.log(score);
+          });
+          images.sort(() => Math.random() - 0.5)
+          return true; 
+        } else {
+          this.resetGame();
+        }
+      }
+    });
   }
 
   // Map over this.state.images and render an ImageCard component for each object
